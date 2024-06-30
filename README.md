@@ -1,9 +1,3 @@
-Certainly! Below is a README file that explains how the code for each of the three challenges works:
-
----
-
-# README: Challenges Explanation
-
 ## Challenge 1: Student Grade Generator
 
 ### Description
