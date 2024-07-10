@@ -40,8 +40,3 @@ The program calculates an individual's net salary based on basic salary and bene
 5. Net salary = Gross salary - (payee + NHIF + NSSF).
 
 
----
-
-Feel free to modify and enhance these explanations as needed. If you have any further questions, don't hesitate to ask! 😊  
-
----
